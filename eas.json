@@ -6,7 +6,8 @@
     "preview": {
       "android": {
         "buildType": "apk",
-        "node": "20.10.0"
+        "node": "20.10.0",
+        "gradleCommand": ":app:assembleRelease"
       }
     },
     "preview2": {
